@@ -1,0 +1,5 @@
+Flask
+pytube
+ffmpeg-python
+flask-socketio
+eventlet
