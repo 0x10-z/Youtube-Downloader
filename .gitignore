@@ -1,3 +1,5 @@
 venv
 *.pyc
 downloads
+!venv/Lib/pytube/innertube.py
+!venv/Lib/pytube/cipher.py
